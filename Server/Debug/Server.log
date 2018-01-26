@@ -1,0 +1,8 @@
+﻿  server.cpp
+c:\users\juan.escudero\onedrive\u-tad\juego en red\practicas\practica2 - agario\server\server.cpp(223): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\juan.escudero\onedrive\u-tad\juego en red\practicas\practica2 - agario\server\server.cpp(340): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  Server.vcxproj -> C:\Users\juan.escudero\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Server.exe
+  Server.vcxproj -> C:\Users\juan.escudero\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Server.pdb (Full PDB)

@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\juan.escudero\onedrive\u-tad\juego en red\practicas\practica2 - agario\client\include\sprite.h(52): warning C4244: 'return': conversion from 'const double' to 'uint16', possible loss of data
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\juan.escudero\onedrive\u-tad\juego en red\practicas\practica2 - agario\client\lib\glfw.h(74): note: see previous definition of 'APIENTRY'
+c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(32): warning C4005: 'WINGDIAPI': macro redefinition
+  c:\users\juan.escudero\onedrive\u-tad\juego en red\practicas\practica2 - agario\client\lib\glfw.h(91): note: see previous definition of 'WINGDIAPI'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  sprite.cpp
+  skeletonsprite.cpp
+  skeletondata.cpp
+  screen.cpp
+  scene.cpp
+  resourcemanager.cpp
+  renderer.cpp
+  particle.cpp
+  parallaxscene.cpp
+  math.cpp
+  mapscene.cpp
+  map.cpp
+  image.cpp
+  font.cpp
+  emitter.cpp
+  collisionpixeldata.cpp
+  collisionmanager.cpp
+  camera.cpp
+  bone.cpp
+  affector.cpp
+  u-gine.vcxproj -> C:\Users\juan.escudero\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Client.exe
+  u-gine.vcxproj -> C:\Users\juan.escudero\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Client.pdb (Full PDB)

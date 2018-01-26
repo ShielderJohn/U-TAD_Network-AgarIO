@@ -1,0 +1,8 @@
+﻿  main.cpp
+g:\onedrive\u-tad\juego en red\practicas\practica2 - agario\client\include\sprite.h(52): warning C4244: 'return': conversion from 'const double' to 'uint16', possible loss of data
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  g:\onedrive\u-tad\juego en red\practicas\practica2 - agario\client\lib\glfw.h(74): note: see previous definition of 'APIENTRY'
+c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(32): warning C4005: 'WINGDIAPI': macro redefinition
+  g:\onedrive\u-tad\juego en red\practicas\practica2 - agario\client\lib\glfw.h(91): note: see previous definition of 'WINGDIAPI'
+  u-gine.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Client.exe
+  u-gine.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Client.pdb (Full PDB)

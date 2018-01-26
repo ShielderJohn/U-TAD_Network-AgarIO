@@ -1,0 +1,1 @@
+Usar el archivo RunServerAndClients.bat para ejecutar 1 servidor y 3 clientes

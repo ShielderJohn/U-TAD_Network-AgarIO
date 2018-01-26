@@ -1,0 +1,4 @@
+﻿  server.cpp
+g:\onedrive\u-tad\juego en red\practicas\practica2 - agario\server\server.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Server.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Server.exe
+  Server.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica2 - AgarIO\Debug\Server.pdb (Full PDB)
